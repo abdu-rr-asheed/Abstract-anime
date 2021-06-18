@@ -1,7 +1,7 @@
 {
   "name": "Abstract",
   "short_name": "Abstract Generatar",
-  "start_url": "/?home=true",
+  "start_url": "/Abstract-anime/",
   "icons": [
     {
       "src": "icons/manifest-icon-192.png",
